@@ -1,2 +1,2 @@
-# Leetcode
+# LeetCode
 My successful leetcode submissions
