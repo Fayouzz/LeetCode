@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/
 class Solution {
     public boolean canMakeArithmeticProgression(int[] arr) {
         Arrays.sort(arr);
